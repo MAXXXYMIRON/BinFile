@@ -1,0 +1,7 @@
+C:\Users\MAXXXYMIRON\Desktop\.ПАРЫ\САОД\ПРАКТИКА\binfile\Program\bin\Debug\Program.exe.config
+C:\Users\MAXXXYMIRON\Desktop\.ПАРЫ\САОД\ПРАКТИКА\binfile\Program\bin\Debug\Program.exe
+C:\Users\MAXXXYMIRON\Desktop\.ПАРЫ\САОД\ПРАКТИКА\binfile\Program\bin\Debug\Program.pdb
+C:\Users\MAXXXYMIRON\Desktop\.ПАРЫ\САОД\ПРАКТИКА\binfile\Program\obj\Debug\Program.csprojAssemblyReference.cache
+C:\Users\MAXXXYMIRON\Desktop\.ПАРЫ\САОД\ПРАКТИКА\binfile\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\MAXXXYMIRON\Desktop\.ПАРЫ\САОД\ПРАКТИКА\binfile\Program\obj\Debug\Program.exe
+C:\Users\MAXXXYMIRON\Desktop\.ПАРЫ\САОД\ПРАКТИКА\binfile\Program\obj\Debug\Program.pdb
